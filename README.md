@@ -1,4 +1,4 @@
-# sidebar_animation
+# sidebar_flutter
 
 A flutter project for sidebar animation and page links
 
